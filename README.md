@@ -4,4 +4,5 @@
  - <img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/> 
  - <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio%20-%23.svg?&style=for-the-badge&logo=Android-Studio&logoColor=white"/> <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/> <img alt="Visual studio" src="https://img.shields.io/badge/Visual%20studio%20-5C2D91.svg?&style=for-the-badge&logo=visual-studio"/> <img alt="Visual studio code" src="https://img.shields.io/badge/Visual%20studio%20code%20-007ACC.svg?&style=for-the-badge&logo=visual-studio-code"/>  <img alt="Visual studio code" src="https://img.shields.io/badge/Gamemaker%20Studio%20-000000.svg?&style=for-the-badge"/>
  - <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEnvasChan&count_bg=%2347939E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
  
